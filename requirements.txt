@@ -1,2 +1,3 @@
+dbf
+openpyxl
 pandas
-dbfread
